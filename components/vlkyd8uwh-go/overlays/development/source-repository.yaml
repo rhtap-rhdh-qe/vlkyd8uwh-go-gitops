@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vlkyd8uwh-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vlkyd8uwh-go
